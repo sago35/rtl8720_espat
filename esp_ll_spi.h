@@ -6,7 +6,7 @@
 #define _ESP_LL_SPI_H_
 
 #include <Arduino.h>
-#include <esp_config.h>
+#include "esp_config.h"
 #include "SPI.h"
 
 int at_spi_begin(void);
