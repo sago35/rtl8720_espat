@@ -6,6 +6,7 @@
 https://wiki.seeedstudio.com/Wio-Terminal-Network-Overview/  
 
 2) Upload a Sketch or copy `*.uf2` to MSD  
+You can download uf2 (for wio terminal only) from the release page.  
 
 ## Links
 
