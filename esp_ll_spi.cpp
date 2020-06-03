@@ -198,7 +198,7 @@ int at_spi_begin(void) {
   return 0;
 }
 
-#if 0
+#if 1
 void setup() {
   Serial.begin(115200);
   while(!Serial);
